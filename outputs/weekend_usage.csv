@@ -1,0 +1,5 @@
+is_weekend,member_casual,ride_count,day_type
+False,casual,1250781,Weekday
+False,member,2720338,Weekday
+True,casual,744030,Weekend
+True,member,832231,Weekend
